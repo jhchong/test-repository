@@ -1,4 +1,6 @@
-# My awesome REST API
+# Stores REST API
+
+This is built with Flask, Flask-RESTful, Flask-JWT, and Flask-SQLAlchemy
 
 ## Installation
 
